@@ -57,3 +57,9 @@ switched to db nasa
 * Spark is a great system for real-time OLTP workloads
   * false
   
+
+HDFS -> [YARN|MESO ] ->
+
+## DATA LIVES IN HDFS
+
+Distributed and redundent data distribution.
